@@ -2,6 +2,18 @@
 
 본 Repository는 [모두를 위한 딥러닝 강좌 시즌 1](https://youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&si=wWmwhuTcA7AHB2sj)을 수강하고 정리한 내용 및 소스 코드를 포함하고 있습니다.
 
+<br/>
+
+## Set Up Lab Environment
+
+```
+python -m venv .venv                # Create virtual environment
+
+source .venv/bin/activate           # Activate virtual environment
+
+pip install -r requirements.txt     # Install dependencies
+```
+
 ## Contents
 
 - [Notion 정리 메인 페이지](https://distinct-bulb-c95.notion.site/ba3fb5a57ef449558562d2348b3f9fda?pvs=4)
